@@ -1,0 +1,17 @@
+com\onlinesShopingBackend\model\Cart.class
+com\onlinesShopingBackend\App.class
+com\onlinesShopingBackend\DAO\IMPL\SupplierDaoImpl.class
+com\onlinesShopingBackend\model\Supplier.class
+com\onlinesShopingBackend\D\ProductDao.class
+com\onlinesShopingBackend\cfg\DBcfg.class
+com\onlinesShopingBackend\D\SupplierDao.class
+com\onlinesShopingBackend\DAO\IMPL\UserDaoImpl.class
+com\onlinesShopingBackend\model\Product.class
+com\onlinesShopingBackend\D\Userdao.class
+com\onlinesShopingBackend\DAO\IMPL\CategoryDaoImpl.class
+com\onlinesShopingBackend\D\CartDao.class
+com\onlinesShopingBackend\D\CategoryDao.class
+com\onlinesShopingBackend\model\Category.class
+com\onlinesShopingBackend\DAO\IMPL\CartDaoImpl.class
+com\onlinesShopingBackend\model\User.class
+com\onlinesShopingBackend\DAO\IMPL\ProductDaoImpl.class
