@@ -61,7 +61,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-sm">
-			<table align="center">
+			<table align="center" border="5">
 				<tr bgcolor="blue">
 
 					<td>Product Id</td>
