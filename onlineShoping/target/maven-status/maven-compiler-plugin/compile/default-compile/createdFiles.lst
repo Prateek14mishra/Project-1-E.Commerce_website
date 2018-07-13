@@ -1,0 +1,4 @@
+com\onlineShoping\Controller\SupplierController.class
+com\onlineShoping\Controller\ProductController.class
+com\onlineShoping\Controller\CategoryController.class
+com\onlineShoping\Controller\HomeController.class
